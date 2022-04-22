@@ -4,4 +4,4 @@
 
 Clone of a home page.
 
-https://mdotibrahim.github.io/master-course-web-clone/
+https://mdotibrahim.github.io/master-course-web-clone/index.html
