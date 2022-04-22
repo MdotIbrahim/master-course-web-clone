@@ -2,5 +2,6 @@
 
 ## Description
 
-Clone of a landing page.
+Clone of a home page.
 
+https://mdotibrahim.github.io/master-course-web-clone/
